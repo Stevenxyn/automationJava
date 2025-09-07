@@ -1,4 +1,4 @@
-package learningJava;
+package JavaTestingCourse;
 
 public class dataTypes {
 

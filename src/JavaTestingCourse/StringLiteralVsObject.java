@@ -1,4 +1,4 @@
-package learningJava;
+package JavaTestingCourse;
 
 public class StringLiteralVsObject {
 
@@ -8,7 +8,7 @@ public class StringLiteralVsObject {
 		String str1 = "Prueba";
 		String str2 = "Prueba";
 		
-		// Object string
+		// String object
 		String str3 = new String("Prueba");
 		
 		//They are equal for the datatype
